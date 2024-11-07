@@ -6,3 +6,4 @@
 #Ajout de transactions : Lorsqu'un virement est effectué, le type de transaction est automatiquement déterminé, et la transaction est ajoutée à l'historique des transactions de chaque compte concerné.
 
 #Gestion des clients et des comptes associés : Chaque client peut avoir plusieurs comptes, et le système assure le lien entre les comptes et les clients via une structure hiérarchique
+#Serialization (Conversion des objets en JSON) : Chaque objet de classe (Client, Compte, Transaction) est converti en une chaîne JSON à l'aide de l'outil ObjectMapper de Jackson. Cette fonctionnalité permet de sauvegarder des objets dans un fichier JSON.
