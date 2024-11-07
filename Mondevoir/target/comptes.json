@@ -1,0 +1,1 @@
+[{"devise":10000.0,"client":{"prenom":"Dupont","phone":123456789,"compte":[],"nom":"Alice","num":"C001","mail":"alice@example.com","addr":"123 Rue Exemple"},"banque":{"pays":"France","comptes":[],"clients":[],"id":"B001"},"date1":1730998375005,"date2":1730998375005,"numc":"AC123","transactions":[{"typeT":"VIRMEST","ref":"TRX001"}]}]
